@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rassweiler
+- 👀 I’m interested in Web Apps and Game Dev.
+- 🌱 I’m currently learning k3s and rancher.
+- 💞️ I’m looking to collaborate on anything, especially in the game or media space.
+- 📫 How to reach me: email or portfolio contact page.
