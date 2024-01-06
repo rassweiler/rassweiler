@@ -49,9 +49,3 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 <br/>
-
-<h2 align='center'>
-  Github Stats
-</h2>
-
-![hasecilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rassweiler&show_icons=true&theme=dracula)
